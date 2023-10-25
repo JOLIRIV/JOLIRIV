@@ -1,2 +1,2 @@
 
-Soy Full Stack Developer. Trabajé en Backend y Frontend, de los proyectos informados en mis repositorios.
+Soy un Desarrollador Full Stack y Contador Público, con amplia experiencia laboral en la Entidades Financieras. Como desarrollador full stack, mi propósito es trabajar construyendo soluciones a los problemas de las personas. Mi contribución es desarrollar aplicaciones que la gente pueda utilizar, principalmente como desarrollador back-end pero también como desarrollador front-end. Mi experiencia laboral ha estado relacionada con el ámbito corporativo, y actualmente tengo conocimientos en Javascript, NodeJS, Express, PostgreSQL & Sequelize, ReactJS & Redux, Git y metodología SCRUM. Apasionado por el análisis de la codificación y su relación con el desarrollo social.
